@@ -1,0 +1,32 @@
+body {
+    background-color: white;
+}
+p {
+    color: black;
+    text-align: center;
+}
+h1 {
+    color: black;
+    text-align: center;
+}
+h2 {
+    color: black;
+    text-align: center;
+}
+h4 {
+    color: black;
+    text-align: center;
+}
+.footer {
+    text-align:center;
+    color: black;
+    background-color: orangered;
+}
+.quote {
+    text-align:center;
+    color: black;
+}
+.newline {
+    text-align:center;
+    color: black;
+}
