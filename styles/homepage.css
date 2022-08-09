@@ -1,0 +1,22 @@
+body {
+    background-image: linear-gradient(to bottom, rebeccapurple, black);
+}
+p {
+    color: white;
+}
+h1 {
+    color: white;
+}
+h2 {
+    color: white;
+}
+.footer {
+    text-align:center;
+    color: white;
+    background-color: orangered;
+}
+.quotes {
+    text-align:center;
+    color: white;
+    background-color: linear-gradient(to right, black, rebeccapurple);
+}

@@ -1,0 +1,6 @@
+Build a carousel where the quotes cycle through it when the page is reloaded, like what I did before with the PetShop project.
+However, for that to work, I'll need to wrangle JavaScript to my favor, but I have an idea. If i create an array of variables, each variable containing a quote, 
+and I'll use a bit of pseudorandomness to power it. Or, i could just iterate through the array every time a function is called, AKA the website is reloaded.
+Link to Quotes Website: https://dzone.com/articles/best-programming-jokes-amp-quotes
+
+I will start to use this text file as a sort of to do list, so this file can expect much more work coming from me. 
