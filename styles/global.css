@@ -1,4 +1,9 @@
+@font-face {
+    font-family: 'Droid Sans Mono';
+    src: url(../fonts/DroidSansMono.ttf);
+}
 body {
+    font-family: 'Droid Sans Mono';
     background-color: white;
 }
 p {
@@ -17,6 +22,10 @@ h4 {
     color: black;
     text-align: center;
 }
+.header {
+    text-align: center;
+    color: black;
+}
 .footer {
     text-align:center;
     color: black;
@@ -26,7 +35,15 @@ h4 {
     text-align:center;
     color: black;
 }
+.search {
+    text-align:center;
+    color: black;
+}
 .newline {
     text-align:center;
     color: black;
+}
+.navigation {
+    text-align: center;
+    background-color: white;
 }
