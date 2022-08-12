@@ -3,4 +3,13 @@ However, for that to work, I'll need to wrangle JavaScript to my favor, but I ha
 and I'll use a bit of pseudorandomness to power it. Or, i could just iterate through the array every time a function is called, AKA the website is reloaded.
 Link to Quotes Website: https://dzone.com/articles/best-programming-jokes-amp-quotes
 
+On all pages except for the homepage, I'll need to align the logo to the left side of the page. I'll do this by adding in a header in the CSS file.
+I've created a new CSS file just for the homepage, nd I'll do that soon. Here's a link to help me ut with this. 
+Link to Tutorial Website: https://www.delftstack.com/howto/css/css-align-image-right/ 
+Completed on: 12/8/2022
+
+Me meddling with the images and CSS + HTML has created multiple bugs. The logo and favicon are in a shaky spot at the moment, so I'll need to work on them. 
+A few other bugs, such as the formatting of the webpage, are still present. I'll work on them soon. I'll commit the changes to the repository soon.
+    Will Charlton AKA Gloaty, 12/8/2022 Signing off. 
+
 I will start to use this text file as a sort of to do list, so this file can expect much more work coming from me. 
