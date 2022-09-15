@@ -54,7 +54,7 @@ h5 {
     background-color: rgb(96,167,221);
 }
 .topnav a {
-    float: left;
+    float: right;
     color: black;
     text-align: center;
     padding: 14px 16px;
@@ -73,12 +73,29 @@ h5 {
     text-align: center;
     color: white;
 }
+.location {
+    padding-bottom: 20px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    color: white;
+}
+.location a:link {
+    color: yellow;
+}
+.location a:hover {
+    color: orange;
+}
+.location a:visited {
+    color: orangered;
+}
 #img {
-    border: 4px solid rebeccapurple;
+    border: 4px dotted rebeccapurple;
     float: left;
     vertical-align: top;
-    width: 50px;
-    height: 50px;
+    width: 40px;
+    height: 40px;
+    background-color: black;
 }
 #homepage_img {
     border: 4px solid rebeccapurple;
@@ -86,4 +103,11 @@ h5 {
     width: 200px;
     height: 200px;
     margin: 5px;
+}
+#navbar {
+    float: left;
+    padding-left: 10px;
+    color: black;
+    text-align: center;
+    font-size: 15px;
 }
